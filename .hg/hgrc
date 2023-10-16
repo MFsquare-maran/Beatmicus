@@ -1,0 +1,4 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+default = https://os.mbed.com/teams/PM2-die-Kuuhlen/code/PM2_Example_PES_board/
